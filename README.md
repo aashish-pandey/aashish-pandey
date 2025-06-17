@@ -1,20 +1,20 @@
 <h1 align="center">Hey, I'm Aashish 👋</h1>
 
 <p align="center">
-  <b>PhD Student • Full-Stack Developer • Medical Imaging ML Researcher</b><br/>
-  Building impactful tech at the crossroads of CS, AI, and Healthcare 🚀
+  <b>PhD Student • Full‑Stack Developer • Medical Imaging ML Researcher</b><br>
+  Building impactful software & AI-driven healthcare tools — from prototype to production 🚀
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, C++, Bash
-- **Frontend:** React.js, Next.js, Tailwind, Redux
-- **Backend:** Node.js, Express, FastAPI, MongoDB, PostgreSQL
-- **ML/DL:** PyTorch, Scikit-learn, OpenCV, CNNs
-- **Medical Imaging:** PET, SPECT, CASToR, SimpleITK
-- **DevOps/Tools:** Git, Firebase, Docker, Netlify, Vercel
+- **Languages:** Python, JavaScript, TypeScript, C++, Bash  
+- **Frontend:** React.js, Next.js, Tailwind, Redux  
+- **Backend:** Node.js, Express, FastAPI, MongoDB, PostgreSQL  
+- **ML/DL:** PyTorch, Scikit‑learn, OpenCV, CNNs  
+- **Medical Imaging:** PET, SPECT, CASToR, SimpleITK  
+- **DevOps & Tools:** Git, Docker, Firebase, Netlify, Vercel  
 
 ---
 
@@ -22,41 +22,42 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [JaalChitra](https://github.com/aashish-pandey/video-streaming-backend) | Full-stack video streaming platform with real-time chat and admin dashboard | React, Node.js, MongoDB |
-| [DhiSwastha](https://github.com/aashish-pandey/dhiswastha) | Health record & patient management portal | React, Firebase |
-| [PET Gap Filler](https://github.com/aashish-pandey/pet-gap-filler) | CLI tool for gap-filling sinogram data in PET using CASToR | C++, Python, CASToR |
+| [VideoStreamingWebApp](https://github.com/aashish-pandey/VideoStreamingWebApp) | Full‑stack MERN video streaming platform | React, Node.js, MongoDB |
+| [DhiSwastha](https://github.com/aashish-pandey/DhiSwastha) | Mental‑health‑focused patient portal built on React & Firebase | React, Firebase |
+| [ApplicationAnalyzer](https://github.com/aashish-pandey/ApplicationAnalyzer) | Flask + React tool to predict student admissions using ML | Flask, React |
+| [textutils](https://github.com/aashish-pandey/textutils) | Web app for text processing utilities | JavaScript |
+| [online-food-ordering-system](https://github.com/aashish-pandey/online-food-ordering-system) | C++ console-based food ordering system | C++ |
 
 ---
 
 ### 🧠 Core Strengths
 
-- 🔁 Deep Learning for Parametric PET Image Reconstruction
-- 🔧 Full-Stack App Development from scratch to deployment
-- 📊 Data Structures & Algorithms (300+ problems solved)
-- 👨‍🏫 Teaching Assistant: Operating Systems, Computer Architecture
+- 🔬 Deep Learning & Medical Imaging (PET/SPECT)  
+- ⚙️ Full‑Stack Development & Deployment  
+- 📊 Data Structures & Algorithms (300+ problems solved)  
+- 👨‍🏫 Teaching Assistant: Operating Systems, Data Structures  
 
 ---
 
 ### 📚 Current Focus
 
-- 🔬 Research: Direct parametric reconstruction with CNNs
-- 🤖 Continual Learning (Task-Free)
-- 💡 Building: Smart, scalable web tools + real-time systems
+- CNN‑based parametric reconstruction for PET  
+- Full-stack integrations with real-time features (chat, streaming)  
+- Task-free continual learning research  
 
 ---
 
 ### 🧭 Life Philosophy
 
-> _"No internships. No connections. Just me, my laptop, and the will to build something meaningful."_  
-> _— Aashish (probably coding at 3AM)_
+> _“No fancy internships. No big references. Just late-night coding, academic hustle, and a will to build meaningful tech.”_  
+> — Aashish (probably debugging at 3 AM)  
 
 ---
-
 ### 📫 Reach Me
 
-- 📧 Email: aashishpandey171@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/aashish-prashad-pandey-02388a1a7](https://www.linkedin.com/in/aashish-prashad-pandey-02388a1a7)  
-- 🧠 Portfolio: coming soon...
+- 📧 Email: pandeyaashish100@gmail.com  
+- 🔗 LinkedIn: [linkedin website](https://www.linkedin.com/in/aashish-prashad-pandey-02388a1a7)  
+- 🧠 Portfolio: [portfolio website](https://aashish-pandey.github.io/personal-portfolio/)
 
 ---
 
